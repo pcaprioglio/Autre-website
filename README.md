@@ -1,2 +1,2 @@
 # Autre-website
-Website for my music project Autre
+Website for music project Autre
